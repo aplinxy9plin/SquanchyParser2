@@ -1,0 +1,9 @@
+{
+    "require": {
+        "rmccue/requests": "^1.7",
+        "jwilsson/spotify-web-api-php": "^2.11",
+        "fabpot/goutte": "^3.2",
+        "symfony/panther": "^0.5.2",
+        "symfony/process": "^4.3"
+    }
+}
